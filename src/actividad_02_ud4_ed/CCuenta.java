@@ -25,9 +25,9 @@ public class CCuenta {
     }
    /**
     * Constructor
-    @param nom Nombre del titular de la cuenta
-    @param cue Cuenta de banco
-    @param sal Salario de la cuenta
+    @param nom Nombre del titular de la cuenta seleccionado
+    @param cue Cuenta de banco seleccionado
+    @param sal Salario de la cuenta seleccionado
     @param tipo Tipo de interés que tiene la cuenta
     */
     public CCuenta (String nom, String cue, double sal, double tipo)
